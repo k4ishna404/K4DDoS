@@ -3,9 +3,9 @@
 # 🚀 K4DDoS: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
- <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/hoaan1995/ZxCDDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/hoaan1995/ZxCDDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/stars/k4ishna404/K4DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/k4ishna404/K4DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/k4ishna404/K4DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
  
 </p>
 
@@ -23,7 +23,7 @@
  - NEW OVH-BEAM METHODS!
  - Hi all, there are fools scam tool github for 20usd
 - Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
+ https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
  
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/k4ishna404/K4DDoS/
+cd K4DDoS/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
